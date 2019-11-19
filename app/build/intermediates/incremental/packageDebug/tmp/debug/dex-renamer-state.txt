@@ -1,0 +1,4 @@
+#Tue Nov 19 17:18:03 SGT 2019
+base.0=C\:\\Users\\user\\Desktop\\College Note\\BAIT2073 Mobile Application Development\\Practical\\Week 5\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
