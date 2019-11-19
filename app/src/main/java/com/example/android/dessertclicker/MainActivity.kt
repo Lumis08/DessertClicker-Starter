@@ -128,7 +128,7 @@ class MainActivity : AppCompatActivity() {
             dessertTimer.secondsCount = savedInstanceState.getInt(KEY_TIMER_SECONDS, 0)
             showCurrentDessert()
         }
-        // Hello
+        
         // Set the TextViews to the right values
         binding.revenue = revenue
         binding.amountSold = dessertsSold
